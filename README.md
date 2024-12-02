@@ -31,3 +31,18 @@ https://aistudio.google.com/apikey
 
 
    Both are free
+
+
+Collab links:
+1_lang_building-react-agent-from-scratch (1).ipynb
+https://colab.research.google.com/drive/1G9MXhOTkLrwpfPYTsx8MKKa4_u0CNTE7?usp=sharing
+
+2_lang_langgraph-components (1).ipynb
+https://colab.research.google.com/drive/1nxgAKlyi1get3NTfSCvERvTuXZv50oHJ?usp=sharing
+
+3_lang_langgraph_essay_writer.ipynb
+https://colab.research.google.com/drive/1iEFbZmYaRJEolrpN5DhN4RRxMA2FfmQV?usp=sharing
+
+4_lang_rewoo_task_planner (2).ipynb
+https://colab.research.google.com/drive/1SKA2e56_Uvs9imw_vLxyaPCseYVQvtwT?usp=sharing
+
